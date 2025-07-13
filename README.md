@@ -63,6 +63,7 @@ Upload the TripAdvisor dataset (tripadvisor_hotel_reviews.csv) if not already av
 Run all cells to view the analysis and results.
 
 #Output
+
 The output includes:
 
 Cleaned dataset summary
@@ -72,6 +73,7 @@ Sentiment distribution counts
 Aggregated statistics (e.g., average length of reviews, frequency of sentiments)
 
 Any additional insights derived from the data
+
 
 #Author
 
